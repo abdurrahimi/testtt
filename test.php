@@ -4,3 +4,5 @@
     echo $test;
 
     echo $a + $a;
+
+    echo $a*$a;
